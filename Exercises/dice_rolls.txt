@@ -1,0 +1,11 @@
+Task A
+
+20 dice rolls at random: [1, 1, 2, 3, 3, 4, 4, 4, 4, 4, 4, 5, 5, 5, 6, 6, 6, 6, 6, 6]
+
+Task B
+
+Sorted dice rolls: 1 1 2 3 3 4 4 4 4 4 4 5 5 5 6 6 6 6 6 6 
+
+Task C
+
+Number of fours: 6
